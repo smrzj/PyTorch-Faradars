@@ -1,0 +1,2 @@
+# Everything I'm going to learn from the "Project-Based Machine Vision Training with PyTorch" course on the Faradars website
+```link: https://faradars.org/courses/object-detection-with-coco-dataset-using-pytorch-fvpy123```
